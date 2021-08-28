@@ -10,7 +10,14 @@
 .container {
     display: flex;
 }
-
+/* Lian's jumbotron contribution */
+.jumbotron{
+    background-image: url(/Image-Folder/Jumbotron-Roses.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+/* end of Lei's code contribution */
 .row {
     height: 350px;
 }
